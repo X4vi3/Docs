@@ -1,0 +1,9 @@
+title: Проект документации
+href: index.yaml
+items: 
+  - name: О документации
+    href: about.md
+  - name: Дополнительная страница
+    href: page.md
+  - name: Ещё одна страница
+    href: anotherpage.md
